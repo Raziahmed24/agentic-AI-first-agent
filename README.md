@@ -1,0 +1,6 @@
+- Ask any question in three modes:
+  - 🔵 **Sync** — standard question-answer
+  - 🟣 **Async** — non-blocking mode
+  - 🟢 **Stream** — real-time streaming response
+- Uses **Google Gemini model** via **OpenRouter**
+- Environment variables handled with `.env`
